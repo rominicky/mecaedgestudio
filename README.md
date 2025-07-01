@@ -1,2 +1,2 @@
-# mecaedgestudio
-Sitio proyecto Meca Edge Studio
+# Sitio Meca Edge Studio
+## diseñado por Romina De León
